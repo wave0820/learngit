@@ -1,0 +1,311 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/DadaGame/!svn/ver/20/Code/Client/Projects/PDKGame/cocos2d/external/libiconv/srclib
+END
+xmalloc.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/DadaGame/!svn/ver/20/Code/Client/Projects/PDKGame/cocos2d/external/libiconv/srclib/xmalloc.c
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/DadaGame/!svn/ver/20/Code/Client/Projects/PDKGame/cocos2d/external/libiconv/srclib/Makefile.in
+END
+setenv.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/DadaGame/!svn/ver/20/Code/Client/Projects/PDKGame/cocos2d/external/libiconv/srclib/setenv.c
+END
+canonicalize.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/DadaGame/!svn/ver/20/Code/Client/Projects/PDKGame/cocos2d/external/libiconv/srclib/canonicalize.h
+END
+memmove.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/DadaGame/!svn/ver/20/Code/Client/Projects/PDKGame/cocos2d/external/libiconv/srclib/memmove.c
+END
+pathmax.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/DadaGame/!svn/ver/20/Code/Client/Projects/PDKGame/cocos2d/external/libiconv/srclib/pathmax.h
+END
+malloc.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/DadaGame/!svn/ver/20/Code/Client/Projects/PDKGame/cocos2d/external/libiconv/srclib/malloc.c
+END
+localcharset.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/DadaGame/!svn/ver/20/Code/Client/Projects/PDKGame/cocos2d/external/libiconv/srclib/localcharset.h
+END
+stdio-write.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/DadaGame/!svn/ver/20/Code/Client/Projects/PDKGame/cocos2d/external/libiconv/srclib/stdio-write.c
+END
+relocatable.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/DadaGame/!svn/ver/20/Code/Client/Projects/PDKGame/cocos2d/external/libiconv/srclib/relocatable.c
+END
+unlocked-io.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/DadaGame/!svn/ver/20/Code/Client/Projects/PDKGame/cocos2d/external/libiconv/srclib/unlocked-io.h
+END
+string.in.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/DadaGame/!svn/ver/20/Code/Client/Projects/PDKGame/cocos2d/external/libiconv/srclib/string.in.h
+END
+relocatable.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/DadaGame/!svn/ver/20/Code/Client/Projects/PDKGame/cocos2d/external/libiconv/srclib/relocatable.h
+END
+strerror.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/DadaGame/!svn/ver/20/Code/Client/Projects/PDKGame/cocos2d/external/libiconv/srclib/strerror.c
+END
+unitypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/DadaGame/!svn/ver/20/Code/Client/Projects/PDKGame/cocos2d/external/libiconv/srclib/unitypes.h
+END
+signal.in.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/DadaGame/!svn/ver/20/Code/Client/Projects/PDKGame/cocos2d/external/libiconv/srclib/signal.in.h
+END
+error.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/DadaGame/!svn/ver/20/Code/Client/Projects/PDKGame/cocos2d/external/libiconv/srclib/error.c
+END
+areadlink.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/DadaGame/!svn/ver/20/Code/Client/Projects/PDKGame/cocos2d/external/libiconv/srclib/areadlink.c
+END
+canonicalize-lgpl.c
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/DadaGame/!svn/ver/20/Code/Client/Projects/PDKGame/cocos2d/external/libiconv/srclib/canonicalize-lgpl.c
+END
+stdio.in.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/DadaGame/!svn/ver/20/Code/Client/Projects/PDKGame/cocos2d/external/libiconv/srclib/stdio.in.h
+END
+binary-io.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/DadaGame/!svn/ver/20/Code/Client/Projects/PDKGame/cocos2d/external/libiconv/srclib/binary-io.h
+END
+error.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/DadaGame/!svn/ver/20/Code/Client/Projects/PDKGame/cocos2d/external/libiconv/srclib/error.h
+END
+areadlink.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/DadaGame/!svn/ver/20/Code/Client/Projects/PDKGame/cocos2d/external/libiconv/srclib/areadlink.h
+END
+errno.in.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/DadaGame/!svn/ver/20/Code/Client/Projects/PDKGame/cocos2d/external/libiconv/srclib/errno.in.h
+END
+uniwidth.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/DadaGame/!svn/ver/20/Code/Client/Projects/PDKGame/cocos2d/external/libiconv/srclib/uniwidth.h
+END
+streq.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/DadaGame/!svn/ver/20/Code/Client/Projects/PDKGame/cocos2d/external/libiconv/srclib/streq.h
+END
+c-ctype.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/DadaGame/!svn/ver/20/Code/Client/Projects/PDKGame/cocos2d/external/libiconv/srclib/c-ctype.c
+END
+relocwrapper.c
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/DadaGame/!svn/ver/20/Code/Client/Projects/PDKGame/cocos2d/external/libiconv/srclib/relocwrapper.c
+END
+alloca.in.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/DadaGame/!svn/ver/20/Code/Client/Projects/PDKGame/cocos2d/external/libiconv/srclib/alloca.in.h
+END
+progname.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/DadaGame/!svn/ver/20/Code/Client/Projects/PDKGame/cocos2d/external/libiconv/srclib/progname.c
+END
+malloca.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/DadaGame/!svn/ver/20/Code/Client/Projects/PDKGame/cocos2d/external/libiconv/srclib/malloca.c
+END
+c-ctype.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/DadaGame/!svn/ver/20/Code/Client/Projects/PDKGame/cocos2d/external/libiconv/srclib/c-ctype.h
+END
+xstrdup.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/DadaGame/!svn/ver/20/Code/Client/Projects/PDKGame/cocos2d/external/libiconv/srclib/xstrdup.c
+END
+Makefile.gnulib
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/DadaGame/!svn/ver/20/Code/Client/Projects/PDKGame/cocos2d/external/libiconv/srclib/Makefile.gnulib
+END
+progname.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/DadaGame/!svn/ver/20/Code/Client/Projects/PDKGame/cocos2d/external/libiconv/srclib/progname.h
+END
+malloca.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/DadaGame/!svn/ver/20/Code/Client/Projects/PDKGame/cocos2d/external/libiconv/srclib/malloca.h
+END
+wchar.in.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/DadaGame/!svn/ver/20/Code/Client/Projects/PDKGame/cocos2d/external/libiconv/srclib/wchar.in.h
+END
+stdint.in.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/DadaGame/!svn/ver/20/Code/Client/Projects/PDKGame/cocos2d/external/libiconv/srclib/stdint.in.h
+END
+stdbool.in.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/DadaGame/!svn/ver/20/Code/Client/Projects/PDKGame/cocos2d/external/libiconv/srclib/stdbool.in.h
+END
+unistd.in.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/DadaGame/!svn/ver/20/Code/Client/Projects/PDKGame/cocos2d/external/libiconv/srclib/unistd.in.h
+END
+xreadlink.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/DadaGame/!svn/ver/20/Code/Client/Projects/PDKGame/cocos2d/external/libiconv/srclib/xreadlink.c
+END
+sigprocmask.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/DadaGame/!svn/ver/20/Code/Client/Projects/PDKGame/cocos2d/external/libiconv/srclib/sigprocmask.c
+END
+intprops.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/DadaGame/!svn/ver/20/Code/Client/Projects/PDKGame/cocos2d/external/libiconv/srclib/intprops.h
+END
+xreadlink.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/DadaGame/!svn/ver/20/Code/Client/Projects/PDKGame/cocos2d/external/libiconv/srclib/xreadlink.h
+END
+xalloc.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/DadaGame/!svn/ver/20/Code/Client/Projects/PDKGame/cocos2d/external/libiconv/srclib/xalloc.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/DadaGame/!svn/ver/20/Code/Client/Projects/PDKGame/cocos2d/external/libiconv/srclib/Makefile.am
+END
+readlink.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/DadaGame/!svn/ver/20/Code/Client/Projects/PDKGame/cocos2d/external/libiconv/srclib/readlink.c
+END
+gettext.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/DadaGame/!svn/ver/20/Code/Client/Projects/PDKGame/cocos2d/external/libiconv/srclib/gettext.h
+END
+stdlib.in.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/DadaGame/!svn/ver/20/Code/Client/Projects/PDKGame/cocos2d/external/libiconv/srclib/stdlib.in.h
+END
+progreloc.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/DadaGame/!svn/ver/20/Code/Client/Projects/PDKGame/cocos2d/external/libiconv/srclib/progreloc.c
+END
+malloca.valgrind
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/DadaGame/!svn/ver/20/Code/Client/Projects/PDKGame/cocos2d/external/libiconv/srclib/malloca.valgrind
+END

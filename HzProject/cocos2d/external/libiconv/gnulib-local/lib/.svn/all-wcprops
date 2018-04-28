@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/DadaGame/!svn/ver/20/Code/Client/Projects/PDKGame/cocos2d/external/libiconv/gnulib-local/lib
+END
+xmalloc.c
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/DadaGame/!svn/ver/20/Code/Client/Projects/PDKGame/cocos2d/external/libiconv/gnulib-local/lib/xmalloc.c
+END
+progname.h.diff
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/DadaGame/!svn/ver/20/Code/Client/Projects/PDKGame/cocos2d/external/libiconv/gnulib-local/lib/progname.h.diff
+END
+alloca.in.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/DadaGame/!svn/ver/20/Code/Client/Projects/PDKGame/cocos2d/external/libiconv/gnulib-local/lib/alloca.in.h
+END
+error.h.diff
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/DadaGame/!svn/ver/20/Code/Client/Projects/PDKGame/cocos2d/external/libiconv/gnulib-local/lib/error.h.diff
+END
+xalloc.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/DadaGame/!svn/ver/20/Code/Client/Projects/PDKGame/cocos2d/external/libiconv/gnulib-local/lib/xalloc.h
+END
+xstrdup.c
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/DadaGame/!svn/ver/20/Code/Client/Projects/PDKGame/cocos2d/external/libiconv/gnulib-local/lib/xstrdup.c
+END

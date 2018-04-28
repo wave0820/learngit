@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/DadaGame/!svn/ver/20/Code/Client/Projects/PDKGame/cocos2d/external/libiconv/src
+END
+iconv.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/DadaGame/!svn/ver/20/Code/Client/Projects/PDKGame/cocos2d/external/libiconv/src/iconv.c
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/DadaGame/!svn/ver/20/Code/Client/Projects/PDKGame/cocos2d/external/libiconv/src/Makefile.in
+END
+iconv_no_i18n.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/DadaGame/!svn/ver/20/Code/Client/Projects/PDKGame/cocos2d/external/libiconv/src/iconv_no_i18n.c
+END

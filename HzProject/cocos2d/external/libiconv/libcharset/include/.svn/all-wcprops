@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/DadaGame/!svn/ver/20/Code/Client/Projects/PDKGame/cocos2d/external/libiconv/libcharset/include
+END
+localcharset.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/DadaGame/!svn/ver/20/Code/Client/Projects/PDKGame/cocos2d/external/libiconv/libcharset/include/localcharset.h.in
+END
+libcharset.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/DadaGame/!svn/ver/20/Code/Client/Projects/PDKGame/cocos2d/external/libiconv/libcharset/include/libcharset.h
+END
+export.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/DadaGame/!svn/ver/20/Code/Client/Projects/PDKGame/cocos2d/external/libiconv/libcharset/include/export.h
+END
+localcharset.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/DadaGame/!svn/ver/20/Code/Client/Projects/PDKGame/cocos2d/external/libiconv/libcharset/include/localcharset.h
+END
+libcharset.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/DadaGame/!svn/ver/20/Code/Client/Projects/PDKGame/cocos2d/external/libiconv/libcharset/include/libcharset.h.in
+END
+localcharset.h.build.in
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/DadaGame/!svn/ver/20/Code/Client/Projects/PDKGame/cocos2d/external/libiconv/libcharset/include/localcharset.h.build.in
+END

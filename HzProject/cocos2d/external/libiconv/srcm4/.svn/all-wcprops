@@ -1,0 +1,401 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/DadaGame/!svn/ver/20/Code/Client/Projects/PDKGame/cocos2d/external/libiconv/srcm4
+END
+pathmax.m4
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/DadaGame/!svn/ver/20/Code/Client/Projects/PDKGame/cocos2d/external/libiconv/srcm4/pathmax.m4
+END
+environ.m4
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/DadaGame/!svn/ver/20/Code/Client/Projects/PDKGame/cocos2d/external/libiconv/srcm4/environ.m4
+END
+00gnulib.m4
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/DadaGame/!svn/ver/20/Code/Client/Projects/PDKGame/cocos2d/external/libiconv/srcm4/00gnulib.m4
+END
+relocatable-lib.m4
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/DadaGame/!svn/ver/20/Code/Client/Projects/PDKGame/cocos2d/external/libiconv/srcm4/relocatable-lib.m4
+END
+strerror.m4
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/DadaGame/!svn/ver/20/Code/Client/Projects/PDKGame/cocos2d/external/libiconv/srcm4/strerror.m4
+END
+signal_h.m4
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/DadaGame/!svn/ver/20/Code/Client/Projects/PDKGame/cocos2d/external/libiconv/srcm4/signal_h.m4
+END
+inttypes_h.m4
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/DadaGame/!svn/ver/20/Code/Client/Projects/PDKGame/cocos2d/external/libiconv/srcm4/inttypes_h.m4
+END
+lock.m4
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/DadaGame/!svn/ver/20/Code/Client/Projects/PDKGame/cocos2d/external/libiconv/srcm4/lock.m4
+END
+readlink.m4
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/DadaGame/!svn/ver/20/Code/Client/Projects/PDKGame/cocos2d/external/libiconv/srcm4/readlink.m4
+END
+alloca.m4
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/DadaGame/!svn/ver/20/Code/Client/Projects/PDKGame/cocos2d/external/libiconv/srcm4/alloca.m4
+END
+nls.m4
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/DadaGame/!svn/ver/20/Code/Client/Projects/PDKGame/cocos2d/external/libiconv/srcm4/nls.m4
+END
+errno_h.m4
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/DadaGame/!svn/ver/20/Code/Client/Projects/PDKGame/cocos2d/external/libiconv/srcm4/errno_h.m4
+END
+lib-prefix.m4
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/DadaGame/!svn/ver/20/Code/Client/Projects/PDKGame/cocos2d/external/libiconv/srcm4/lib-prefix.m4
+END
+lib-ld.m4
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/DadaGame/!svn/ver/20/Code/Client/Projects/PDKGame/cocos2d/external/libiconv/srcm4/lib-ld.m4
+END
+wchar.m4
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/DadaGame/!svn/ver/20/Code/Client/Projects/PDKGame/cocos2d/external/libiconv/srcm4/wchar.m4
+END
+stdint.m4
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/DadaGame/!svn/ver/20/Code/Client/Projects/PDKGame/cocos2d/external/libiconv/srcm4/stdint.m4
+END
+stdbool.m4
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/DadaGame/!svn/ver/20/Code/Client/Projects/PDKGame/cocos2d/external/libiconv/srcm4/stdbool.m4
+END
+gnulib-common.m4
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/DadaGame/!svn/ver/20/Code/Client/Projects/PDKGame/cocos2d/external/libiconv/srcm4/gnulib-common.m4
+END
+intl.m4
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/DadaGame/!svn/ver/20/Code/Client/Projects/PDKGame/cocos2d/external/libiconv/srcm4/intl.m4
+END
+malloca.m4
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/DadaGame/!svn/ver/20/Code/Client/Projects/PDKGame/cocos2d/external/libiconv/srcm4/malloca.m4
+END
+unlocked-io.m4
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/DadaGame/!svn/ver/20/Code/Client/Projects/PDKGame/cocos2d/external/libiconv/srcm4/unlocked-io.m4
+END
+gnulib-comp.m4
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/DadaGame/!svn/ver/20/Code/Client/Projects/PDKGame/cocos2d/external/libiconv/srcm4/gnulib-comp.m4
+END
+relocatable.m4
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/DadaGame/!svn/ver/20/Code/Client/Projects/PDKGame/cocos2d/external/libiconv/srcm4/relocatable.m4
+END
+gnulib-cache.m4
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/DadaGame/!svn/ver/20/Code/Client/Projects/PDKGame/cocos2d/external/libiconv/srcm4/gnulib-cache.m4
+END
+signalblocking.m4
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/DadaGame/!svn/ver/20/Code/Client/Projects/PDKGame/cocos2d/external/libiconv/srcm4/signalblocking.m4
+END
+wchar_t.m4
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/DadaGame/!svn/ver/20/Code/Client/Projects/PDKGame/cocos2d/external/libiconv/srcm4/wchar_t.m4
+END
+multiarch.m4
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/DadaGame/!svn/ver/20/Code/Client/Projects/PDKGame/cocos2d/external/libiconv/srcm4/multiarch.m4
+END
+extensions.m4
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/DadaGame/!svn/ver/20/Code/Client/Projects/PDKGame/cocos2d/external/libiconv/srcm4/extensions.m4
+END
+lib-link.m4
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/DadaGame/!svn/ver/20/Code/Client/Projects/PDKGame/cocos2d/external/libiconv/srcm4/lib-link.m4
+END
+printf-posix.m4
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/DadaGame/!svn/ver/20/Code/Client/Projects/PDKGame/cocos2d/external/libiconv/srcm4/printf-posix.m4
+END
+setenv.m4
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/DadaGame/!svn/ver/20/Code/Client/Projects/PDKGame/cocos2d/external/libiconv/srcm4/setenv.m4
+END
+intldir.m4
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/DadaGame/!svn/ver/20/Code/Client/Projects/PDKGame/cocos2d/external/libiconv/srcm4/intldir.m4
+END
+uintmax_t.m4
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/DadaGame/!svn/ver/20/Code/Client/Projects/PDKGame/cocos2d/external/libiconv/srcm4/uintmax_t.m4
+END
+string_h.m4
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/DadaGame/!svn/ver/20/Code/Client/Projects/PDKGame/cocos2d/external/libiconv/srcm4/string_h.m4
+END
+iconv.m4
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/DadaGame/!svn/ver/20/Code/Client/Projects/PDKGame/cocos2d/external/libiconv/srcm4/iconv.m4
+END
+longlong.m4
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/DadaGame/!svn/ver/20/Code/Client/Projects/PDKGame/cocos2d/external/libiconv/srcm4/longlong.m4
+END
+ssize_t.m4
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/DadaGame/!svn/ver/20/Code/Client/Projects/PDKGame/cocos2d/external/libiconv/srcm4/ssize_t.m4
+END
+glibc21.m4
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/DadaGame/!svn/ver/20/Code/Client/Projects/PDKGame/cocos2d/external/libiconv/srcm4/glibc21.m4
+END
+codeset.m4
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/DadaGame/!svn/ver/20/Code/Client/Projects/PDKGame/cocos2d/external/libiconv/srcm4/codeset.m4
+END
+visibility.m4
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/DadaGame/!svn/ver/20/Code/Client/Projects/PDKGame/cocos2d/external/libiconv/srcm4/visibility.m4
+END
+stdio_h.m4
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/DadaGame/!svn/ver/20/Code/Client/Projects/PDKGame/cocos2d/external/libiconv/srcm4/stdio_h.m4
+END
+sigpipe.m4
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/DadaGame/!svn/ver/20/Code/Client/Projects/PDKGame/cocos2d/external/libiconv/srcm4/sigpipe.m4
+END
+intmax.m4
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/DadaGame/!svn/ver/20/Code/Client/Projects/PDKGame/cocos2d/external/libiconv/srcm4/intmax.m4
+END
+glibc2.m4
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/DadaGame/!svn/ver/20/Code/Client/Projects/PDKGame/cocos2d/external/libiconv/srcm4/glibc2.m4
+END
+xsize.m4
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/DadaGame/!svn/ver/20/Code/Client/Projects/PDKGame/cocos2d/external/libiconv/srcm4/xsize.m4
+END
+lcmessage.m4
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/DadaGame/!svn/ver/20/Code/Client/Projects/PDKGame/cocos2d/external/libiconv/srcm4/lcmessage.m4
+END
+eealloc.m4
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/DadaGame/!svn/ver/20/Code/Client/Projects/PDKGame/cocos2d/external/libiconv/srcm4/eealloc.m4
+END
+wint_t.m4
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/DadaGame/!svn/ver/20/Code/Client/Projects/PDKGame/cocos2d/external/libiconv/srcm4/wint_t.m4
+END
+memmove.m4
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/DadaGame/!svn/ver/20/Code/Client/Projects/PDKGame/cocos2d/external/libiconv/srcm4/memmove.m4
+END
+progtest.m4
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/DadaGame/!svn/ver/20/Code/Client/Projects/PDKGame/cocos2d/external/libiconv/srcm4/progtest.m4
+END
+inttypes-pri.m4
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/DadaGame/!svn/ver/20/Code/Client/Projects/PDKGame/cocos2d/external/libiconv/srcm4/inttypes-pri.m4
+END
+malloc.m4
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/DadaGame/!svn/ver/20/Code/Client/Projects/PDKGame/cocos2d/external/libiconv/srcm4/malloc.m4
+END
+stdint_h.m4
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/DadaGame/!svn/ver/20/Code/Client/Projects/PDKGame/cocos2d/external/libiconv/srcm4/stdint_h.m4
+END
+unistd_h.m4
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/DadaGame/!svn/ver/20/Code/Client/Projects/PDKGame/cocos2d/external/libiconv/srcm4/unistd_h.m4
+END
+intdiv0.m4
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/DadaGame/!svn/ver/20/Code/Client/Projects/PDKGame/cocos2d/external/libiconv/srcm4/intdiv0.m4
+END
+po.m4
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/DadaGame/!svn/ver/20/Code/Client/Projects/PDKGame/cocos2d/external/libiconv/srcm4/po.m4
+END
+size_max.m4
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/DadaGame/!svn/ver/20/Code/Client/Projects/PDKGame/cocos2d/external/libiconv/srcm4/size_max.m4
+END
+include_next.m4
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/DadaGame/!svn/ver/20/Code/Client/Projects/PDKGame/cocos2d/external/libiconv/srcm4/include_next.m4
+END
+intlmacosx.m4
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/DadaGame/!svn/ver/20/Code/Client/Projects/PDKGame/cocos2d/external/libiconv/srcm4/intlmacosx.m4
+END
+mbstate_t.m4
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/DadaGame/!svn/ver/20/Code/Client/Projects/PDKGame/cocos2d/external/libiconv/srcm4/mbstate_t.m4
+END
+gettext.m4
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/DadaGame/!svn/ver/20/Code/Client/Projects/PDKGame/cocos2d/external/libiconv/srcm4/gettext.m4
+END
+stdlib_h.m4
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/DadaGame/!svn/ver/20/Code/Client/Projects/PDKGame/cocos2d/external/libiconv/srcm4/stdlib_h.m4
+END
+error.m4
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/DadaGame/!svn/ver/20/Code/Client/Projects/PDKGame/cocos2d/external/libiconv/srcm4/error.m4
+END
+gnulib-tool.m4
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/DadaGame/!svn/ver/20/Code/Client/Projects/PDKGame/cocos2d/external/libiconv/srcm4/gnulib-tool.m4
+END
+canonicalize-lgpl.m4
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/DadaGame/!svn/ver/20/Code/Client/Projects/PDKGame/cocos2d/external/libiconv/srcm4/canonicalize-lgpl.m4
+END
+threadlib.m4
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/DadaGame/!svn/ver/20/Code/Client/Projects/PDKGame/cocos2d/external/libiconv/srcm4/threadlib.m4
+END

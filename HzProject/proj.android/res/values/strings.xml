@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources>
+    <string name="app_name">欢腾红中麻将</string>
+    <string name="pay_result_tip">这个界面用于显示第三方app通过微信支付的结果</string>
+</resources>
