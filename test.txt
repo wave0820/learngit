@@ -1,67 +1,17 @@
 {\rtf1\ansi\ansicpg936\cocoartf1504\cocoasubrtf820
-{\fonttbl\f0\fnil\fcharset134 STHeitiSC-Light;\f1\fnil\fcharset134 PingFangSC-Regular;}
-{\colortbl;\red255\green255\blue255;}
-{\*\expandedcolortbl;;}
+{\fonttbl\f0\fmodern\fcharset0 Courier;\f1\fmodern\fcharset0 Courier-Bold;}
+{\colortbl;\red255\green255\blue255;\red52\green52\blue52;\red249\green249\blue249;\red38\green38\blue38;
+}
+{\*\expandedcolortbl;;\cssrgb\c26667\c26667\c26667;\cssrgb\c98039\c98039\c98039;\cssrgb\c20000\c20000\c20000;
+}
 \paperw11900\paperh16840\margl1440\margr1440\vieww37900\viewh18360\viewkind0
-\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx4874\tx5102\tx5669\tx6236\tx6803\pardirnatural\partightenfactor0
+\deftab720
+\pard\pardeftab720\partightenfactor0
 
-\f0\fs24 \cf0 \'df\'d5\'df\'d5\'bf\'c6\'bc\'bc\'c6\'bb\'b9\'fb\'d5\'cb\'ba\'c52314860064@qq.com \'c3\'dc\'c2\'ebDadagame2016  \
-\'ce\'a2\'d0\'c5\'b5\'c7\'c2\'bc\'bd\'d3\'bf\'da\'d5\'cb\'ba\'c52314860064@qq.com    \'c3\'dc\'c2\'ebdadagame2210\
-\'cd\'e2\'cd\'f8 211.149.160.248\
-\'d5\'cb\'ba\'c5:admin\
-\'c3\'d8\'c3\'dc :Dadagame2018\
-\
-\
-\'be\'c3\'c0\'d6\'c6\'b4\'ca\'ae\'c6\'bb\'b9\'fb\'d5\'cb\'ba\'c5lxc6800629@163.com\'c3\'dc\'c2\'eb\'a3\'baLinxingcheng123456  \'c3\'dc\'b1\'a3\'b4\'f0\'b0\'b8   \'c1\'d6\'c0\'cf\'b0\'e5\'a1\'a3 \'c1\'d6\'d1\'bc\'d0\'d0\
-\'b7\'fe\'ce\'f1\'c6\'f7120.27.214.252\
-\'d5\'cb\'ba\'c5 administartor\
-\'c3\'dc\'c2\'eb Dadagame2018\
-\
-\'c5\'a3\'c9\'d9\'d2\'af \'c6\'bb\'b9\'fb\'d5\'cb\'ba\'c5\'a3\'bazh304598288@163.com\
-\'c3\'dc\'c2\'eb\'a3\'basen135876A\
-\'ce\'a2\'d0\'c5\'bf\'aa\'b7\'c5\'c6\'bd\'cc\'a8\'a3\'ba\
-\'d5\'cb\'ba\'c5\'a3\'ba304598288@qq.com\
-\'c3\'dc\'c2\'eb\'a3\'basen135876\
-\'c5\'a3\'c9\'d9\'d2\'af\'cd\'f8\'d5\'be\'a3\'ba\
-IP\'a3\'ba60.205.19.58\
-\'d5\'cb\'ba\'c5\'a3\'babxw2341090019\
-\'c3\'dc\'c2\'eb\'a3\'bajiaoyang2\
-\'c5\'a3\'c9\'d9\'d2\'af\'b7\'fe\'ce\'f1\'c6\'f7\'a3\'ba116.62.232.238\
-\'d5\'cb\'ba\'c5\'a3\'baAdministrator\
-\'c3\'dc\'c2\'eb\'a3\'baYjnsy2018\
-\
-\
-\'b5\'c2\'d6\'dd\'d0\'c2\'b7\'fe\'ce\'f1\'c6\'f7\'a3\'ba92.223.67.132 \
-\'d5\'cb\'ba\'c5\'a3\'baAdministrator \
-\'c3\'dc\'c2\'eb\'a3\'baDouyupk2018\
-\'b5\'c2\'d6\'dd\'d0\'c2\'c6\'bb\'b9\'fb\'d5\'cb\'ba\'c5ddb559@yeah.net\'c3\'dc\'c2\'ebGooddayth0401\'d3\'ca\'cf\'e4\'c3\'dc\'c2\'ebanyan5\
-\'c3\'dc\'b1\'a3\
-1.What is the first name of your best friend in high school :aaa\
-2.What is your dream job:aaaa\
-3.In what city didi your parents meet:aaaaa\
-\'b5\'c2\'d6\'dd\'c0\'cf\'c6\'bb\'b9\'fb\'d5\'cb\'ba\'c5\'a3\'banicchen39@163.com  
-\f1 \'d3\'ca\'cf\'e4
-\f0 \'c3\'dc\'c2\'eb chen8578\
-\'c3\'dc\'c2\'eb\'a3\'baYgp01030520\
-\
-\
-\uc0\u160 \'b5\'c2\'c6\'cb\'95\'fe\'cf\'ee\'c4\'bf\'c2\'b7\'be\'b6  Desktop/wrok/DPokerHui     \'d7\'ee\'d0\'c2\'b0\'e6\'b5\'c2\'d6\'dd\'b0\'fc\'ba\'ac\'be\'e3\'c0\'d6\'b2\'bf\'b2\'bb\'b0\'fc\'ba\'ac\'c2\'f2\'b1\'a3\'cf\'d5\
-\uc0\u160 \'c8\'ab\'c3\'f1\'b5\'c2\'d6\'dd\'cf\'ee\'c4\'bf\'c2\'b7\'be\'b6  Desktop/wrok/QMDpoker   \'b0\'fc\'ba\'ac\'c2\'f2\'b1\'a3\'cf\'d5\'b2\'bb\'b0\'fc\'ba\'ac\'be\'e3\'c0\'d6\'b2\'bf\
-\
-\'be\'c3\'c0\'d6\'c5\'a3\'c5\'a3\'cf\'ee\'c4\'bf\'c2\'b7\'be\'b6  Desktop/wrok/HZProgect/JiuLeNiuNiu    \'d7\'ee\'d0\'c2\'b0\'e6\'b0\'fc\'ba\'ac\'be\'e3\'c0\'d6\'b2\'bf\
-\'be\'c3\'c0\'d6\'c5\'a3\'c5\'a3\'cf\'ee\'c4\'bf\'c2\'b7\'be\'b6  Desktop/wrok/HZProgect/OldJiuLeNiuNiu    \'b2\'bb\'b0\'fc\'ba\'ac\'be\'e3\'c0\'d6\'b2\'bf\
-811\'c6\'e5\'c5\'c6\'cf\'ee\'c4\'bf\'c2\'b7\'be\'b6       Desktop/wrok/HZProgect/NiuShaoYe    \
-\
-\'b0\'b2\'bb\'d5\'cf\'d0\'c8\'cb\'c2\'e9\'bd\'ab\'cf\'ee\'c4\'bf\'c2\'b7\'be\'b6  Desktop/wrok/HZProgect/XianRenMahjon \
-\'cf\'d0\'c0\'b4\'c2\'e9\'bd\'ab\'cf\'ee\'c4\'bf\'c2\'b7\'be\'b6     Desktop/wrok/HZProgect/GameBase     \
-\
-\
-\'c0\'cf\'b5\'c2\'d6\'dd\'b6\'b7\'f6\'e8\'b5\'c2\'d6\'dd\'c2\'b7\'be\'b6  Desktop/wrok/HZProgect/dzpoker_dousha\
-\'c0\'cf\'b5\'c2\'d6\'dd\'b6\'cc\'b5\'c2\'c2\'b7\'be\'b6  Desktop/wrok/HZProgect/dzpoker_short\
-\
-\'ba\'fe\'d6\'dd\'be\'fd\'d4\'c3\'c6\'e5\'c5\'c6\'cf\'ee\'c4\'bf\'c2\'b7\'be\'b6 Desktop/wrok/HuZhouGame \
-\
-\
-\'bb\'b6\'cc\'da\'ba\'ec\'d6\'d0\'c2\'e9\'bd\'ab\'cf\'ee\'c4\'bf\'c2\'b7\'be\'b6  Desktop/wrok/HZProgect/HzProject_5\
-\
-\'cd\'f8\'ba\'fc\'c8\'d9\'d2\'ab\'cf\'ee\'c4\'bf\'c2\'b7\'be\'b6  Desktop/wrok/HZProgect/Phone316Game}
+\f0\fs24 \cf2 \cb3 \expnd0\expndtw0\kerning0
+Git 
+\f1\b \cf4 is
+\f0\b0 \cf2  a distributed version control system.\
+Git 
+\f1\b \cf4 is
+\f0\b0 \cf2  free software.}
